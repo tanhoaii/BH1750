@@ -3,7 +3,7 @@
 
 void SW_I2C_init(void)
 {
-    SDA_DIR_OUT();
+    SDA_DIR_OUT():
     SCL_DIR_OUT();
     delay_ms(1);
     SDA_HIGH();
