@@ -11,7 +11,7 @@
                         
  */
 
-//Pham Tan Hoai
+//Pham Tan Hoai1
 #include "msp430g2553.h"
 #include "delay.h"
 #include "HW_I2C.h"
