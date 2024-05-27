@@ -1,6 +1,6 @@
 #include "lcd.h"
 
-
+//add
 static unsigned char bl_state;
 static unsigned char data_value;
 
